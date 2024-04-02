@@ -1,0 +1,15 @@
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/bin/Debug/net7.0/Lyrics
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/bin/Debug/net7.0/Lyrics.deps.json
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/bin/Debug/net7.0/Lyrics.runtimeconfig.json
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/bin/Debug/net7.0/Lyrics.dll
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/bin/Debug/net7.0/Lyrics.pdb
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/Lyrics.csproj.AssemblyReference.cache
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/Lyrics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/Lyrics.AssemblyInfoInputs.cache
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/Lyrics.AssemblyInfo.cs
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/Lyrics.csproj.CoreCompileInputs.cache
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/Lyrics.dll
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/refint/Lyrics.dll
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/Lyrics.pdb
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/Lyrics.genruntimeconfig.cache
+/Users/michaelyan/Downloads/SCC专属/CIS115课程/Lyrics/Lyrics/obj/Debug/net7.0/ref/Lyrics.dll
